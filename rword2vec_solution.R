@@ -1,4 +1,4 @@
-library(Rcpp)
+library(RcppArmadillo)
 library(tm)
 library(randomForest)
 library(rpart)
@@ -90,8 +90,6 @@ training_data=get_average_vectors(d,matrix(as.numeric(unlist(vocab[,2:ncol(vocab
 training_data=as.data.frame(training_data)
 training_data$sentiment=labeled$sentiment
 write.csv(training_data,"train_vector_averaging.csv",row.names = F)
-
-
 
 d=NULL
 d=strsplit(test$review," ")
