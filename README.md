@@ -1,5 +1,5 @@
 ## Kaggle Bag of Words Meets Bag of Popcorns using Word2vec in R
-Solution to Bag of words meets bag of popcorns using word2vec in R
+An entry to Bag of words meets bag of popcorns using word2vec in R
 
 To get competion data, click [here](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 
