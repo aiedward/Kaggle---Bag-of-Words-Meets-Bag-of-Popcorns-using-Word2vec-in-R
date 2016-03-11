@@ -27,12 +27,12 @@ I'd recommend to read [this](https://www.kaggle.com/c/word2vec-nlp-tutorial/deta
    
 ####Test dataset results: 
    
-   ![image](https://github.com/mukul13/Kaggle---Bag-of-Words-Meets-Bag-of-Popcorns-using-Word2vec-in-R/blob/master/average%20vectors.png)
+   ![image](https://github.com/mukul13/Kaggle---Bag-of-Words-Meets-Bag-of-Popcorns-using-Word2vec-in-R/blob/master/Results/vector%20averaging%20result/average%20vectors.png)
    
    <b>Classification using Vector Averaging</b>
    
    
-   ![image2](https://github.com/mukul13/Kaggle---Bag-of-Words-Meets-Bag-of-Popcorns-using-Word2vec-in-R/blob/master/bag%20of%20centroids.png)
+   ![image2](https://github.com/mukul13/Kaggle---Bag-of-Words-Meets-Bag-of-Popcorns-using-Word2vec-in-R/blob/master/Results/bag%20of%20centroids%20result/bag%20of%20centroids.png)
    
    <b>Classification using Clustering</b>
    
