@@ -36,4 +36,7 @@ I'd recommend to read [this](https://www.kaggle.com/c/word2vec-nlp-tutorial/deta
    
    <b>Classification using Clustering</b>
    
-   
+####Results:
+* Accuracy obtained for averaging and bag of centroids is more than their respective threshold but it is still very less. 
+* Accuracy can be improved using different machine learning algorithms like GBM,xgboost,neural networks etc and using techniques like stacking, blending, bagging etc.
+
